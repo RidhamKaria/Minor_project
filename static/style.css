@@ -1,0 +1,16 @@
+body{
+        font-size: 1.2rem;
+        color: whitesmoke;
+        background-color: black;
+}
+.submit{
+        background-color: black;
+        color: white;
+        text-decoration: none;  
+}
+.bg-red{
+        color: red;
+}
+.bg-green{
+        color:green;
+}
